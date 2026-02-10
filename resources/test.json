@@ -1,0 +1,278 @@
+{
+    "workbench.startupEditor": "none",
+    "remote.SSH.remotePlatform": {
+        "BuildServer": "linux",
+        "MediaZen": "linux",
+        "192.168.105.145": "linux",
+        "Robot": "linux",
+        "IV": "linux",
+        "JejuDemo": "linux",
+        "JEJU_WAS": "linux",
+        "192.168.123.64": "linux",
+        "112.220.79.218": "linux",
+        "Dev64": "linux",
+        "sizhawk.iptime.org": "linux",
+        "Ubuntu": "linux",
+        "Vms": "linux",
+        "Honken": "linux"
+    },
+    "sync.gist": "e9c5fbf53ece16f1a34ad721d2efd514",
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.autofetch": true,
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "/opt/homebrew/opt/openjdk@17/libexec/openjdk.jdk/Contents/Home",
+            "default": true
+        }
+    ],
+    "[javascript]": {
+        "editor.tabSize": 4,
+        "editor.maxTokenizationLineLength": 2500,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[javascriptreact]": {
+        "editor.tabSize": 4,
+        "editor.maxTokenizationLineLength": 2500,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[scss]": {
+        "editor.tabSize": 4,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "code-runner.executorMap": {
+        "javascript": "node",
+        "java": "cd $dir && javac $fileName && java $fileNameWithoutExt",
+        "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "objective-c": "cd $dir && gcc -framework Cocoa $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "php": "php",
+        "python": "python -u",
+        "perl": "perl",
+        "perl6": "perl6",
+        "ruby": "ruby",
+        "go": "go run",
+        "lua": "lua",
+        "groovy": "groovy",
+        "powershell": "powershell -ExecutionPolicy ByPass -File",
+        "bat": "cmd /c",
+        "shellscript": "bash",
+        "fsharp": "fsi",
+        "csharp": "scriptcs",
+        "vbscript": "cscript //Nologo",
+        "typescript": "ts-node",
+        "coffeescript": "coffee",
+        "scala": "scala",
+        "swift": "swift",
+        "julia": "julia",
+        "crystal": "crystal",
+        "ocaml": "ocaml",
+        "r": "Rscript",
+        "applescript": "osascript",
+        "clojure": "lein exec",
+        "haxe": "haxe --cwd $dirWithoutTrailingSlash --run $fileNameWithoutExt",
+        "rust": "cd $dir && rustc $fileName && $dir$fileNameWithoutExt",
+        "racket": "racket",
+        "scheme": "csi -script",
+        "ahk": "autohotkey",
+        "autoit": "autoit3",
+        "dart": "dart",
+        "pascal": "cd $dir && fpc $fileName && $dir$fileNameWithoutExt",
+        "d": "cd $dir && dmd $fileName && $dir$fileNameWithoutExt",
+        "haskell": "runhaskell",
+        "nim": "nim compile --verbosity:0 --hints:off --run",
+        "lisp": "sbcl --script",
+        "kit": "kitc --run",
+        "v": "v run",
+        "sass": "sass --style expanded",
+        "scss": "scss --style expanded",
+        "less": "cd $dir && lessc $fileName $fileNameWithoutExt.css",
+        "FortranFreeForm": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "fortran-modern": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "fortran_fixed-form": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "fortran": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+    },
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "todohighlight.isEnable": true,
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.jdt.ls.vmargs": "-Dfile.encoding=utf-8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -javaagent:\"c:\\Users\\MEDIAZEN\\.vscode\\extensions\\gabrielbb.vscode-lombok-1.0.1\\server\\lombok.jar\"",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "maven.executable.path": "D:/apache-maven-3.8.3/bin/mvn.cmd",
+    "maven.terminal.useJavaHome": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "redhat.telemetry.enabled": true,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "peacock.favoriteColors": [
+        {
+            "name": "Dark Gold",
+            "value": "#f8b90a65"
+        },
+        {
+            "name": "Air Force Blue",
+            "value": "#5d8aa8"
+        },
+        {
+            "name": "Angular Red",
+            "value": "#dd0531"
+        },
+        {
+            "name": "Azure Blue",
+            "value": "#007fff"
+        },
+        {
+            "name": "Celestial blue",
+            "value": "#4997d0"
+        },
+        {
+            "name": "JavaScript Yellow",
+            "value": "#f9e64f"
+        },
+        {
+            "name": "Mandalorian Blue",
+            "value": "#1857a4"
+        },
+        {
+            "name": "Node Green",
+            "value": "#215732"
+        },
+        {
+            "name": "React Blue",
+            "value": "#61dafb"
+        },
+        {
+            "name": "Something Different",
+            "value": "#832561"
+        },
+        {
+            "name": "Svelte Orange",
+            "value": "#ff3d00"
+        },
+        {
+            "name": "Vue Green",
+            "value": "#42b883"
+        }
+    ],
+    "peacock.affectTitleBar": false,
+    "peacock.affectActivityBar": false,
+    "rsp-ui.enableStartServerOnActivation": [
+        {
+            "id": "redhat.vscode-community-server-connector",
+            "name": "Community Server Connector",
+            "startOnActivation": true
+        }
+    ],
+    "gutterpreview.showImagePreviewOnGutter": false,
+    "go.toolsManagement.autoUpdate": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "js/ts.implicitProjectConfig.experimentalDecorators": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.accessibilitySupport": "off",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "git.openRepositoryInParentFolders": "never",
+    "boot-java.rewrite.reconcile": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "aicodehelper.gptkey": "****",
+    "[jinie]": {
+        "diffEditor.codeLens": true,
+        "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+        "outline.showVariables": true,
+        "outline.showArrays": true,
+        "outline.showFields": true,
+        "editor.tabSize": 2,
+        "editor.wordWrap": "off",
+        "editor.find.loop": true,
+        "editor.wordSeparators": "`~!#%^&*()-=+[{]}|;:'\",<>/?"
+    },
+    "dart.lineLength": 200,
+    "dart.openDevTools": "flutter",
+    "dart.previewFlutterUiGuides": true,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            200
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off",
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "explicit"
+        }
+    },
+    "regexrobin.rules": [
+        {
+            "regex": "\".*_LID_.*\"\t+|\"N_.*\"\t+|\"S_.*\"\t+|\".*_TAG_.*\"\t+",
+            "languages": [
+                "jinie"
+            ],
+            "editor": [
+                {
+                    "color": "rgb(120, 223, 235)"
+                }
+            ]
+        }
+    ],
+    "svelte.enable-ts-plugin": true,
+    "cmake.configureOnOpen": true,
+    "cmake.options.advanced": {
+        "build": {
+            "statusBarVisibility": "visible"
+        },
+        "launch": {
+            "statusBarVisibility": "visible"
+        },
+        "debug": {
+            "statusBarVisibility": "visible"
+        }
+    },
+    "editor.fontSize": 10,
+    "terminal.integrated.fontFamily": "monospace",
+    "git.confirmSync": false,
+    "cmake.showOptionsMovedNotification": false,
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "markdown.extension.print.imgToBase64": true,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "catppuccin-icons.specificFolders": true,
+    "catppuccin-icons.associations.folders": {
+        "model": "folder_database",
+        "repository": "folder_server",
+        "ios": "folder_xcode",
+        "resources": "folder_public",
+    },
+    "cursor.cpp.disabledLanguages": [
+        "plaintext",
+        "markdown",
+        "scminput"
+    ],
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "hediet.vscode-drawio.resizeImages": null,
+    "workbench.colorTheme": "Bearded Theme Coffee Reversed",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true
+}
