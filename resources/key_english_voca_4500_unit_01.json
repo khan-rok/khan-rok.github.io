@@ -1,0 +1,122 @@
+[
+  {
+    "word": "accept",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to take" }
+    ]
+  },
+  {
+    "word": "basic",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "simple; fundamental" }
+    ]
+  },
+  {
+    "word": "chemical",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a substance used to make things" }
+    ]
+  },
+  {
+    "word": "difference",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the way things are not like each other" }
+    ]
+  },
+  {
+    "word": "fuel",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "something that makes energy when it burns" }
+    ]
+  },
+  {
+    "word": "liquid",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a substance like water" }
+    ]
+  },
+  {
+    "word": "necessary",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "needed" }
+    ]
+  },
+  {
+    "word": "produce",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make" }
+    ]
+  },
+  {
+    "word": "stairs",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "steps" }
+    ]
+  },
+  {
+    "word": "unite",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to join" }
+    ]
+  },
+  {
+    "word": "although",
+    "definition": [
+      { "part_of_speech": "conj.", "meaning": "even though; despite" }
+    ]
+  },
+  {
+    "word": "breathe",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to take in air" }
+    ]
+  },
+  {
+    "word": "concerned",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "worried" }
+    ]
+  },
+  {
+    "word": "factory",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a building where things are made" }
+    ]
+  },
+  {
+    "word": "gas",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a substance like air that can be burned as fuel" }
+    ]
+  },
+  {
+    "word": "harm",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to hurt" }
+    ]
+  },
+  {
+    "word": "material",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a substance that things can be made from" }
+    ]
+  },
+  {
+    "word": "rare",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "not common" }
+    ]
+  },
+  {
+    "word": "select",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to choose" }
+    ]
+  },
+  {
+    "word": "wide",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "having a large distance from one side to the other" }
+    ]
+  }
+]
