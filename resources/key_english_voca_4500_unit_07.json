@@ -1,0 +1,122 @@
+[
+  {
+    "word": "birth",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the event of a baby being born" }
+    ]
+  },
+  {
+    "word": "couple",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "two people (who are in love)" }
+    ]
+  },
+  {
+    "word": "engineer",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who designs, constructs, and maintains machines or structures" }
+    ]
+  },
+  {
+    "word": "film",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make a video or movie" }
+    ]
+  },
+  {
+    "word": "honest",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "able to be trusted" }
+    ]
+  },
+  {
+    "word": "likely",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "expected; probable" }
+    ]
+  },
+  {
+    "word": "modern",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "of the present time; new" }
+    ]
+  },
+  {
+    "word": "negative",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "bad or harmful" }
+    ]
+  },
+  {
+    "word": "positive",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "good or helpful" }
+    ]
+  },
+  {
+    "word": "tool",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an object used by hand to make things" }
+    ]
+  },
+  {
+    "word": "candle",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a stick of wax with a piece of string that you light" }
+    ]
+  },
+  {
+    "word": "cute",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "pretty" }
+    ]
+  },
+  {
+    "word": "disappear",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to go out of sight" }
+    ]
+  },
+  {
+    "word": "fashion",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a style in clothes and makeup" }
+    ]
+  },
+  {
+    "word": "identity",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "who a person is" }
+    ]
+  },
+  {
+    "word": "mall",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a building with many stores" }
+    ]
+  },
+  {
+    "word": "reach",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to be able to touch something by stretching your arms" }
+    ]
+  },
+  {
+    "word": "style",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make or design hair and clothes in a stylish way" }
+    ]
+  },
+  {
+    "word": "twin",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "two people born on the same day to the same mother" }
+    ]
+  },
+  {
+    "word": "uncertain",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "not sure" }
+    ]
+  }
+]
