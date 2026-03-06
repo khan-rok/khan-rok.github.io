@@ -1,0 +1,122 @@
+[
+  {
+    "word": "addition",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a thing added to something else; the fact of adding" }
+    ]
+  },
+  {
+    "word": "behavior",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the way someone acts" }
+    ]
+  },
+  {
+    "word": "comfortably",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "with a relaxing feeling" }
+    ]
+  },
+  {
+    "word": "creature",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "any living animal" }
+    ]
+  },
+  {
+    "word": "disagreement",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an argument; a difference of opinion" }
+    ]
+  },
+  {
+    "word": "explore",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to look around a new place" }
+    ]
+  },
+  {
+    "word": "manner",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "behavior; the way that you do something" }
+    ]
+  },
+  {
+    "word": "nation",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a country and its people" }
+    ]
+  },
+  {
+    "word": "rude",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "acting with bad behavior" }
+    ]
+  },
+  {
+    "word": "warn",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to tell someone about a possible danger or problem" }
+    ]
+  },
+  {
+    "word": "amount",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "how much there is of something" }
+    ]
+  },
+  {
+    "word": "argue",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to disagree; to fight" }
+    ]
+  },
+  {
+    "word": "creative",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "good at thinking of new ideas" }
+    ]
+  },
+  {
+    "word": "discover",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to find or find out" }
+    ]
+  },
+  {
+    "word": "habit",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "something you do often" }
+    ]
+  },
+  {
+    "word": "impress",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make someone have a good feeling about you" }
+    ]
+  },
+  {
+    "word": "marriage",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the situation of being husband and wife" }
+    ]
+  },
+  {
+    "word": "personality",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "character" }
+    ]
+  },
+  {
+    "word": "unpleasant",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "not nice" }
+    ]
+  },
+  {
+    "word": "wealthy",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "rich" }
+    ]
+  }
+]
