@@ -1,0 +1,122 @@
+[
+  {
+    "word": "advertise",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to tell people about something so that they want it" }
+    ]
+  },
+  {
+    "word": "complain",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to say that you don’t like something" }
+    ]
+  },
+  {
+    "word": "earn",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to receive money for work" }
+    ]
+  },
+  {
+    "word": "global",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "worldwide" }
+    ]
+  },
+  {
+    "word": "leader",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who goes first or in front" }
+    ]
+  },
+  {
+    "word": "occur",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to happen" }
+    ]
+  },
+  {
+    "word": "peace",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a state of no fighting or arguing" }
+    ]
+  },
+  {
+    "word": "puzzle",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a game or toy that tests skill" }
+    ]
+  },
+  {
+    "word": "rainforest",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a tropical forest with lots of rain" }
+    ]
+  },
+  {
+    "word": "solution",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an answer" }
+    ]
+  },
+  {
+    "word": "certain",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "sure" }
+    ]
+  },
+  {
+    "word": "damage",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to harm" }
+    ]
+  },
+  {
+    "word": "fail",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to not succeed" }
+    ]
+  },
+  {
+    "word": "height",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "how tall or high something is" }
+    ]
+  },
+  {
+    "word": "measure",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to find the exact size of something" }
+    ]
+  },
+  {
+    "word": "opportunity",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a possibility" }
+    ]
+  },
+  {
+    "word": "population",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the people or animals living in a place" }
+    ]
+  },
+  {
+    "word": "promise",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to say you will do something" }
+    ]
+  },
+  {
+    "word": "scream",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make a loud cry" }
+    ]
+  },
+  {
+    "word": "species",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a class of plant or animals" }
+    ]
+  }
+]
