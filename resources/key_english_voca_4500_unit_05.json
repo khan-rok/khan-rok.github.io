@@ -1,0 +1,122 @@
+[
+  {
+    "word": "beg",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to ask for something" }
+    ]
+  },
+  {
+    "word": "branch",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a strong arm of a tree" }
+    ]
+  },
+  {
+    "word": "cave",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an underground area in a hill or mountain" }
+    ]
+  },
+  {
+    "word": "flight",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a trip in an airplane" }
+    ]
+  },
+  {
+    "word": "garbage",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "things that are used and no longer needed" }
+    ]
+  },
+  {
+    "word": "image",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a picture (real or in your mind)" }
+    ]
+  },
+  {
+    "word": "lower",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to move down" }
+    ]
+  },
+  {
+    "word": "rob",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to take money or things without asking" }
+    ]
+  },
+  {
+    "word": "snack",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a light meal" }
+    ]
+  },
+  {
+    "word": "trust",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to believe in someone" }
+    ]
+  },
+  {
+    "word": "calm",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "quiet and peaceful" }
+    ]
+  },
+  {
+    "word": "guest",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "someone visiting or invited to your house" }
+    ]
+  },
+  {
+    "word": "individual",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "for one person" }
+    ]
+  },
+  {
+    "word": "market",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a place to buy and sell things" }
+    ]
+  },
+  {
+    "word": "passenger",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person traveling on a bus, airplane, etc." }
+    ]
+  },
+  {
+    "word": "refuse",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to say no; to decline" }
+    ]
+  },
+  {
+    "word": "roof",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the top part of a building" }
+    ]
+  },
+  {
+    "word": "soil",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the top layer of earth" }
+    ]
+  },
+  {
+    "word": "waiter",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who serves food in a restaurant" }
+    ]
+  },
+  {
+    "word": "within",
+    "definition": [
+      { "part_of_speech": "prep.", "meaning": "inside" }
+    ]
+  }
+]
