@@ -1,0 +1,122 @@
+[
+  {
+    "word": "alive",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "living; not dead" }
+    ]
+  },
+  {
+    "word": "crop",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a plant grown for food" }
+    ]
+  },
+  {
+    "word": "curious",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "wanting to know more about things" }
+    ]
+  },
+  {
+    "word": "damaged",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "broken or harmed in some way" }
+    ]
+  },
+  {
+    "word": "death",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the end of life" }
+    ]
+  },
+  {
+    "word": "local",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "of the area in which you live" }
+    ]
+  },
+  {
+    "word": "pollute",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make air, land, and water dirty" }
+    ]
+  },
+  {
+    "word": "reduce",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make smaller or less" }
+    ]
+  },
+  {
+    "word": "shock",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to surprise in a negative way" }
+    ]
+  },
+  {
+    "word": "volunteer",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "someone who does work without pay" }
+    ]
+  },
+  {
+    "word": "customer",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who buys goods or services" }
+    ]
+  },
+  {
+    "word": "embarrass",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make someone feel shy or upset" }
+    ]
+  },
+  {
+    "word": "fashionable",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "popular" }
+    ]
+  },
+  {
+    "word": "identify",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to know and say what something is" }
+    ]
+  },
+  {
+    "word": "product",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "something that is made to sell" }
+    ]
+  },
+  {
+    "word": "someday",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "at a time in the future" }
+    ]
+  },
+  {
+    "word": "subway",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an underground train" }
+    ]
+  },
+  {
+    "word": "symbol",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a shape or design with a special meaning" }
+    ]
+  },
+  {
+    "word": "therefore",
+    "definition": [
+      { "part_of_speech": "conj. adv.", "meaning": "so; as a result" }
+    ]
+  },
+  {
+    "word": "unhelpful",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "not wanting to help" }
+    ]
+  }
+]
