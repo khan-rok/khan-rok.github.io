@@ -1,0 +1,122 @@
+[
+  {
+    "word": "artist",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "someone who makes art" }
+    ]
+  },
+  {
+    "word": "diamond",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a hard stone worth a lot of money" }
+    ]
+  },
+  {
+    "word": "exactly",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "precisely" }
+    ]
+  },
+  {
+    "word": "female",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "being a girl or woman" }
+    ]
+  },
+  {
+    "word": "frighten",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to scare" }
+    ]
+  },
+  {
+    "word": "knock",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to hit in order to make a sound" }
+    ]
+  },
+  {
+    "word": "pyramid",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a shape with a square base and triangular sides" }
+    ]
+  },
+  {
+    "word": "successful",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "getting the result you want" }
+    ]
+  },
+  {
+    "word": "temperature",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "how hot or cold it is" }
+    ]
+  },
+  {
+    "word": "uncomfortable",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "making you feel bad; not comfortable" }
+    ]
+  },
+  {
+    "word": "disagree",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to have a different opinion" }
+    ]
+  },
+  {
+    "word": "earthquake",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a shaking of the earth’s surface" }
+    ]
+  },
+  {
+    "word": "festival",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an event with food, dancing, and performances" }
+    ]
+  },
+  {
+    "word": "foreign",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "of another country" }
+    ]
+  },
+  {
+    "word": "happiness",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the feeling of being happy" }
+    ]
+  },
+  {
+    "word": "male",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "being a man or boy" }
+    ]
+  },
+  {
+    "word": "role",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a part; a duty" }
+    ]
+  },
+  {
+    "word": "separate",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to divide" }
+    ]
+  },
+  {
+    "word": "talented",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "having a well-developed skill" }
+    ]
+  },
+  {
+    "word": "vitamin",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a substance necessary for one's health" }
+    ]
+  }
+]
