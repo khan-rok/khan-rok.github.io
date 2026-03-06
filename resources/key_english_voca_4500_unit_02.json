@@ -1,0 +1,122 @@
+[
+  {
+    "word": "dust",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "small pieces of dirt" }
+    ]
+  },
+  {
+    "word": "flow",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to move quickly used (for liquids)" }
+    ]
+  },
+  {
+    "word": "greet",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to say hello" }
+    ]
+  },
+  {
+    "word": "honey",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a sweet food made by bees" }
+    ]
+  },
+  {
+    "word": "lift",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to raise up" }
+    ]
+  },
+  {
+    "word": "metal",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a hard substance such as iron or gold" }
+    ]
+  },
+  {
+    "word": "neighborhood",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a part of town where people live" }
+    ]
+  },
+  {
+    "word": "none",
+    "definition": [
+      { "part_of_speech": "pron.", "meaning": "not one; not any" }
+    ]
+  },
+  {
+    "word": "plastic",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a light material made from oil" }
+    ]
+  },
+  {
+    "word": "recycle",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to use again" }
+    ]
+  },
+  {
+    "word": "address",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the way of explaining where a building is" }
+    ]
+  },
+  {
+    "word": "backpack",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a kind of bag" }
+    ]
+  },
+  {
+    "word": "drama",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a serious play or story" }
+    ]
+  },
+  {
+    "word": "opera",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a play with music" }
+    ]
+  },
+  {
+    "word": "pottery",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "pots, bowls, and dishes made of clay" }
+    ]
+  },
+  {
+    "word": "statue",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a stone or metal image of a person or animal" }
+    ]
+  },
+  {
+    "word": "stream",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a small river" }
+    ]
+  },
+  {
+    "word": "transport",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to move by ship, airplane, train, etc." }
+    ]
+  },
+  {
+    "word": "various",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "of many kinds" }
+    ]
+  },
+  {
+    "word": "waste",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to use or throw away without need" }
+    ]
+  }
+]
