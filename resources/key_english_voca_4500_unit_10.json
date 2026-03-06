@@ -1,0 +1,122 @@
+[
+  {
+    "word": "ability",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a skill or talent" }
+    ]
+  },
+  {
+    "word": "active",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "busy; lively" }
+    ]
+  },
+  {
+    "word": "avoid",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to keep away from" }
+    ]
+  },
+  {
+    "word": "beat",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to do better than" }
+    ]
+  },
+  {
+    "word": "celebrate",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to do something fun for a special event" }
+    ]
+  },
+  {
+    "word": "contest",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a race, game, etc. that people try to win" }
+    ]
+  },
+  {
+    "word": "equipment",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "objects used to do a hobby or job" }
+    ]
+  },
+  {
+    "word": "gymnasium",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a place to do exercise or sports" }
+    ]
+  },
+  {
+    "word": "improve",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make better" }
+    ]
+  },
+  {
+    "word": "powerful",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "very strong" }
+    ]
+  },
+  {
+    "word": "athlete",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who is very good at a sport" }
+    ]
+  },
+  {
+    "word": "champion",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "someone who has won first place" }
+    ]
+  },
+  {
+    "word": "compete",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to be in a contest with someone" }
+    ]
+  },
+  {
+    "word": "effort",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "energy used to achieve something" }
+    ]
+  },
+  {
+    "word": "outdoors",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "not in a building" }
+    ]
+  },
+  {
+    "word": "participate",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to take part in" }
+    ]
+  },
+  {
+    "word": "stretch",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to do exercises to pull your muscles" }
+    ]
+  },
+  {
+    "word": "strength",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "power" }
+    ]
+  },
+  {
+    "word": "uniform",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a set of clothes for members of a group to wear" }
+    ]
+  },
+  {
+    "word": "victory",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an occasion when one wins a game, contest, etc." }
+    ]
+  }
+]
