@@ -1,0 +1,122 @@
+[
+  {
+    "word": "advance",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to move forward" }
+    ]
+  },
+  {
+    "word": "alarm",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a device that makes a loud sound as a warning" }
+    ]
+  },
+  {
+    "word": "bet",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to risk money on the result of an event" }
+    ]
+  },
+  {
+    "word": "chat",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to talk in a friendly way" }
+    ]
+  },
+  {
+    "word": "citizen",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who has the right to belong to a particular country" }
+    ]
+  },
+  {
+    "word": "combine",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to put two or more things together" }
+    ]
+  },
+  {
+    "word": "exclaim",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to say something suddenly and loudly" }
+    ]
+  },
+  {
+    "word": "nor",
+    "definition": [
+      { "part_of_speech": "conj.", "meaning": "and not either" }
+    ]
+  },
+  {
+    "word": "spice",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a part of a plant used to give food flavor" }
+    ]
+  },
+  {
+    "word": "threat",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the possibility that something very bad will happen" }
+    ]
+  },
+  {
+    "word": "amuse",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make someone laugh or smile" }
+    ]
+  },
+  {
+    "word": "arrow",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a weapon in the form of a thin straight stick with a sharp point at one end" }
+    ]
+  },
+  {
+    "word": "chore",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a small task, often one you don’t want to do" }
+    ]
+  },
+  {
+    "word": "community",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a group of people who live in the same area" }
+    ]
+  },
+  {
+    "word": "crazy",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "strange or foolish" }
+    ]
+  },
+  {
+    "word": "donate",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to give (money, food, or clothes) to help others" }
+    ]
+  },
+  {
+    "word": "file",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a set of papers, documents, or records that you keep because they contain information" }
+    ]
+  },
+  {
+    "word": "motion",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a movement" }
+    ]
+  },
+  {
+    "word": "seek",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to look for" }
+    ]
+  },
+  {
+    "word": "solar",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "of or relating to the sun" }
+    ]
+  }
+]
