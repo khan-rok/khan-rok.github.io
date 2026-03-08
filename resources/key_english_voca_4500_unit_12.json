@@ -1,0 +1,122 @@
+[
+  {
+    "word": "athletic",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "relating to athletes and sport" }
+    ]
+  },
+  {
+    "word": "celebration",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a party or festival for a special event" }
+    ]
+  },
+  {
+    "word": "determined",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "wanting very much to do something" }
+    ]
+  },
+  {
+    "word": "diet",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "what someone eats and drinks" }
+    ]
+  },
+  {
+    "word": "expect",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to believe something will occur" }
+    ]
+  },
+  {
+    "word": "least",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "the smallest amount" }
+    ]
+  },
+  {
+    "word": "method",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a way of doing something" }
+    ]
+  },
+  {
+    "word": "movement",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the act of moving" }
+    ]
+  },
+  {
+    "word": "plate",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a flat dish" }
+    ]
+  },
+  {
+    "word": "related",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "of the same family" }
+    ]
+  },
+  {
+    "word": "contestant",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person in a contest" }
+    ]
+  },
+  {
+    "word": "distance",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the amount of space between two things" }
+    ]
+  },
+  {
+    "word": "especially",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "very much" }
+    ]
+  },
+  {
+    "word": "limit",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the amount or degree of something that is allowed" }
+    ]
+  },
+  {
+    "word": "prefer",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to like better" }
+    ]
+  },
+  {
+    "word": "prize",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a gift given to someone who wins a race, contest, etc." }
+    ]
+  },
+  {
+    "word": "program",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a set of instructions for a computer" }
+    ]
+  },
+  {
+    "word": "regular",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "usual" }
+    ]
+  },
+  {
+    "word": "result",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "something that is caused by something else" }
+    ]
+  },
+  {
+    "word": "speed",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "how fast something moves" }
+    ]
+  }
+]
