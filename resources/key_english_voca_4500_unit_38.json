@@ -1,0 +1,122 @@
+[
+  {
+    "word": "anger",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a strong feeling that makes you upset" }
+    ]
+  },
+  {
+    "word": "appointment",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a plan to be somewhere at a certain time" }
+    ]
+  },
+  {
+    "word": "boss",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the person for whom you work" }
+    ]
+  },
+  {
+    "word": "classical",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "traditional and of lasting value" }
+    ]
+  },
+  {
+    "word": "code",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a system of words, letters, or signs" }
+    ]
+  },
+  {
+    "word": "mill",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a building where grain is made into flour" }
+    ]
+  },
+  {
+    "word": "mount",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a mountain" }
+    ]
+  },
+  {
+    "word": "northern",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "toward the north" }
+    ]
+  },
+  {
+    "word": "official",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "approved by someone important" }
+    ]
+  },
+  {
+    "word": "smooth",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "having an even surface with no rough parts" }
+    ]
+  },
+  {
+    "word": "announcement",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an official statement" }
+    ]
+  },
+  {
+    "word": "brand",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a type of product made by a company" }
+    ]
+  },
+  {
+    "word": "column",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a tall stone with a narrow shape" }
+    ]
+  },
+  {
+    "word": "compose",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to produce music, poetry, or formal writing" }
+    ]
+  },
+  {
+    "word": "critic",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "someone who writes opinions about things" }
+    ]
+  },
+  {
+    "word": "logic",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a way of thinking based on good judgment" }
+    ]
+  },
+  {
+    "word": "organization",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an official group of people" }
+    ]
+  },
+  {
+    "word": "ray",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a narrow line of light" }
+    ]
+  },
+  {
+    "word": "settle",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to relax into a comfortable position" }
+    ]
+  },
+  {
+    "word": "sort",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to arrange" }
+    ]
+  }
+]
