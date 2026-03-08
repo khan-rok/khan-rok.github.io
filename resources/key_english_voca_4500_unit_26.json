@@ -1,0 +1,122 @@
+[
+  {
+    "word": "access",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the right to use or look at something" }
+    ]
+  },
+  {
+    "word": "balance",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a state where all things are equal" }
+    ]
+  },
+  {
+    "word": "data",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "facts and numbers" }
+    ]
+  },
+  {
+    "word": "economist",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who studies systems of trade and industry" }
+    ]
+  },
+  {
+    "word": "eventually",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "in the end" }
+    ]
+  },
+  {
+    "word": "instantly",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "immediately; without delay" }
+    ]
+  },
+  {
+    "word": "lend",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to give for a period of time" }
+    ]
+  },
+  {
+    "word": "presentation",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a talk giving information about something" }
+    ]
+  },
+  {
+    "word": "tape",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "thin, sticky plastic" }
+    ]
+  },
+  {
+    "word": "unfortunately",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "unluckily" }
+    ]
+  },
+  {
+    "word": "account",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "money kept under a person’s name at a bank" }
+    ]
+  },
+  {
+    "word": "double",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "twice the normal amount" }
+    ]
+  },
+  {
+    "word": "efficient",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "working well" }
+    ]
+  },
+  {
+    "word": "reward",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a prize for doing something good" }
+    ]
+  },
+  {
+    "word": "risk",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the chance of injury, damage, or loss" }
+    ]
+  },
+  {
+    "word": "shadow",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an area of darkness" }
+    ]
+  },
+  {
+    "word": "suggestion",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an idea or recommendation" }
+    ]
+  },
+  {
+    "word": "trash",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "garbage" }
+    ]
+  },
+  {
+    "word": "underline",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to draw a line beneath" }
+    ]
+  },
+  {
+    "word": "wallet",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a small folder to hold money" }
+    ]
+  }
+]
