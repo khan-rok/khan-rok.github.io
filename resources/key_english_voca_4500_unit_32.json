@@ -1,0 +1,122 @@
+[
+  {
+    "word": "attempt",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to try" }
+    ]
+  },
+  {
+    "word": "awful",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "very bad" }
+    ]
+  },
+  {
+    "word": "difficulty",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a trouble or problem" }
+    ]
+  },
+  {
+    "word": "emergency",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an unexpected event involving danger" }
+    ]
+  },
+  {
+    "word": "grab",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to take quickly" }
+    ]
+  },
+  {
+    "word": "ignore",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to not listen or give attention to" }
+    ]
+  },
+  {
+    "word": "mud",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a mixture of earth and water" }
+    ]
+  },
+  {
+    "word": "quit",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to stop; to leave a place of work" }
+    ]
+  },
+  {
+    "word": "rescue",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to save from danger" }
+    ]
+  },
+  {
+    "word": "term",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a set period of time" }
+    ]
+  },
+  {
+    "word": "beyond",
+    "definition": [
+      { "part_of_speech": "prep.", "meaning": "past a place" }
+    ]
+  },
+  {
+    "word": "content",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "everything contained within something" }
+    ]
+  },
+  {
+    "word": "development",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the process of changing and becoming more advanced" }
+    ]
+  },
+  {
+    "word": "elevator",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a device that moves up and down between floors of a building" }
+    ]
+  },
+  {
+    "word": "lung",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a body part used for breathing" }
+    ]
+  },
+  {
+    "word": "predict",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to say in advance that something will happen" }
+    ]
+  },
+  {
+    "word": "recover",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to become well again" }
+    ]
+  },
+  {
+    "word": "structure",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "something that has been made or built from parts" }
+    ]
+  },
+  {
+    "word": "tend",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to be likely to do something" }
+    ]
+  },
+  {
+    "word": "tunnel",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a long passage underground" }
+    ]
+  }
+]
