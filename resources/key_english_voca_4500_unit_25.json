@@ -1,0 +1,122 @@
+[
+  {
+    "word": "afford",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to be able to pay for something" }
+    ]
+  },
+  {
+    "word": "cash",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "money in the form of coins and bills" }
+    ]
+  },
+  {
+    "word": "convenient",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "comfortable or easy to use" }
+    ]
+  },
+  {
+    "word": "deal",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an agreement between two or more people" }
+    ]
+  },
+  {
+    "word": "groceries",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "food and other items you buy at a store" }
+    ]
+  },
+  {
+    "word": "label",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a piece of paper or plastic which gives information about the object it is attached to" }
+    ]
+  },
+  {
+    "word": "package",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a container in which something is wrapped for sale" }
+    ]
+  },
+  {
+    "word": "remind",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make someone think about something again" }
+    ]
+  },
+  {
+    "word": "slip",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to fall by accident" }
+    ]
+  },
+  {
+    "word": "supermarket",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a large store that sells food and drinks" }
+    ]
+  },
+  {
+    "word": "atmosphere",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the gases around the earth" }
+    ]
+  },
+  {
+    "word": "charge",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an amount of money that you have to pay" }
+    ]
+  },
+  {
+    "word": "display",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to put something where people can see it" }
+    ]
+  },
+  {
+    "word": "goods",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "things that are produced to be sold" }
+    ]
+  },
+  {
+    "word": "midnight",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "12 o’clock at night" }
+    ]
+  },
+  {
+    "word": "option",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a choice" }
+    ]
+  },
+  {
+    "word": "quality",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "how good or bad something is" }
+    ]
+  },
+  {
+    "word": "spill",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to accidentally pour a liquid out of its container" }
+    ]
+  },
+  {
+    "word": "unless",
+    "definition": [
+      { "part_of_speech": "conj.", "meaning": "except if" }
+    ]
+  },
+  {
+    "word": "variety",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a number of different things" }
+    ]
+  }
+]
