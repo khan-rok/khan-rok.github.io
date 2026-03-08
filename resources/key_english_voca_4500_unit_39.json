@@ -1,0 +1,122 @@
+[
+  {
+    "word": "annoy",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to bother" }
+    ]
+  },
+  {
+    "word": "appearance",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the way something looks" }
+    ]
+  },
+  {
+    "word": "buddy",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a close friend" }
+    ]
+  },
+  {
+    "word": "context",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the situation within which something exists" }
+    ]
+  },
+  {
+    "word": "contrast",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a difference between things" }
+    ]
+  },
+  {
+    "word": "represent",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to speak or act in someone’s place" }
+    ]
+  },
+  {
+    "word": "rid",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to remove" }
+    ]
+  },
+  {
+    "word": "shut",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to close" }
+    ]
+  },
+  {
+    "word": "slice",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a piece of food cut from a larger piece" }
+    ]
+  },
+  {
+    "word": "successfully",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "with success" }
+    ]
+  },
+  {
+    "word": "apart",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "separated by distance or time" }
+    ]
+  },
+  {
+    "word": "apology",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the act of saying sorry" }
+    ]
+  },
+  {
+    "word": "bush",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a large plant" }
+    ]
+  },
+  {
+    "word": "constantly",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "all the time" }
+    ]
+  },
+  {
+    "word": "inspire",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make someone feel that they want to do something" }
+    ]
+  },
+  {
+    "word": "pause",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to stop for a short while" }
+    ]
+  },
+  {
+    "word": "release",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to let go" }
+    ]
+  },
+  {
+    "word": "shore",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the land at the edge of the sea or a lake" }
+    ]
+  },
+  {
+    "word": "slave",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "someone who has to work without pay" }
+    ]
+  },
+  {
+    "word": "stupid",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "not smart" }
+    ]
+  }
+]
