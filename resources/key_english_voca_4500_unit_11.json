@@ -1,0 +1,122 @@
+[
+  {
+    "word": "attack",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to try to hurt or damage" }
+    ]
+  },
+  {
+    "word": "clerk",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who works in a bank or shop" }
+    ]
+  },
+  {
+    "word": "credit",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a way of paying for things later" }
+    ]
+  },
+  {
+    "word": "deliver",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to take items to a person or place" }
+    ]
+  },
+  {
+    "word": "evil",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "unpleasant and cruel" }
+    ]
+  },
+  {
+    "word": "fear",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a feeling of being scared" }
+    ]
+  },
+  {
+    "word": "international",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "of or involving several nations" }
+    ]
+  },
+  {
+    "word": "national",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "of one country" }
+    ]
+  },
+  {
+    "word": "private",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "only for one person or group" }
+    ]
+  },
+  {
+    "word": "public",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "for all people" }
+    ]
+  },
+  {
+    "word": "billion",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "1,000,000,000" }
+    ]
+  },
+  {
+    "word": "bury",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to put in the earth and cover" }
+    ]
+  },
+  {
+    "word": "copy",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to do the same as someone else" }
+    ]
+  },
+  {
+    "word": "fool",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a silly person" }
+    ]
+  },
+  {
+    "word": "government",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the groups that lead a nation" }
+    ]
+  },
+  {
+    "word": "manage",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to organize people or a company" }
+    ]
+  },
+  {
+    "word": "owner",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the person something belongs to" }
+    ]
+  },
+  {
+    "word": "pressure",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "stress" }
+    ]
+  },
+  {
+    "word": "respect",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to have a good opinion of someone" }
+    ]
+  },
+  {
+    "word": "schedule",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a plan of things to do and times to do them" }
+    ]
+  }
+]
