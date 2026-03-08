@@ -1,0 +1,122 @@
+[
+  {
+    "word": "ancient",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "very old; from the past" }
+    ]
+  },
+  {
+    "word": "battle",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a serious fight between two groups" }
+    ]
+  },
+  {
+    "word": "century",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a period of 100 years" }
+    ]
+  },
+  {
+    "word": "dinosaur",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a type of large animal that is now dead" }
+    ]
+  },
+  {
+    "word": "enemy",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "someone who hates and wants to hurt another" }
+    ]
+  },
+  {
+    "word": "force",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make someone do something" }
+    ]
+  },
+  {
+    "word": "native",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "relating to your country of birth" }
+    ]
+  },
+  {
+    "word": "palace",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a large house for a king or queen" }
+    ]
+  },
+  {
+    "word": "survive",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to continue to live" }
+    ]
+  },
+  {
+    "word": "throughout",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "in every part" }
+    ]
+  },
+  {
+    "word": "admire",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to like and respect" }
+    ]
+  },
+  {
+    "word": "chief",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the leader of a group" }
+    ]
+  },
+  {
+    "word": "control",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to limit or order something or someone" }
+    ]
+  },
+  {
+    "word": "destroy",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to damage something so badly it can’t be used" }
+    ]
+  },
+  {
+    "word": "emperor",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the leader of an empire" }
+    ]
+  },
+  {
+    "word": "exist",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to be; to be alive" }
+    ]
+  },
+  {
+    "word": "period",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a length of time" }
+    ]
+  },
+  {
+    "word": "sailor",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "someone who works on a ship" }
+    ]
+  },
+  {
+    "word": "treasure",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "money and jewels with a high value" }
+    ]
+  },
+  {
+    "word": "war",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a serious fight between armies" }
+    ]
+  }
+]
