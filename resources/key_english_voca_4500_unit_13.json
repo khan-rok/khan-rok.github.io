@@ -1,0 +1,122 @@
+[
+  {
+    "word": "actually",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "really" }
+    ]
+  },
+  {
+    "word": "apply",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to ask for something, often by filling out a form" }
+    ]
+  },
+  {
+    "word": "comprehend",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to understand" }
+    ]
+  },
+  {
+    "word": "intelligent",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "smart" }
+    ]
+  },
+  {
+    "word": "position",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the way that something is placed or located" }
+    ]
+  },
+  {
+    "word": "professional",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "working at something for money" }
+    ]
+  },
+  {
+    "word": "screen",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a flat surface that shows words and pictures" }
+    ]
+  },
+  {
+    "word": "second",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "1/60th of a minute" }
+    ]
+  },
+  {
+    "word": "situation",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the state of something" }
+    ]
+  },
+  {
+    "word": "wise",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "knowing the best thing to do" }
+    ]
+  },
+  {
+    "word": "advantage",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a good point" }
+    ]
+  },
+  {
+    "word": "further",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "at a greater distance" }
+    ]
+  },
+  {
+    "word": "mostly",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "mainly" }
+    ]
+  },
+  {
+    "word": "normal",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "usual" }
+    ]
+  },
+  {
+    "word": "purpose",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a reason" }
+    ]
+  },
+  {
+    "word": "refer",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to talk about a certain person or subject" }
+    ]
+  },
+  {
+    "word": "require",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to need" }
+    ]
+  },
+  {
+    "word": "sample",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an example; a small piece to try" }
+    ]
+  },
+  {
+    "word": "sculpture",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an object shaped from stone, wood, etc." }
+    ]
+  },
+  {
+    "word": "worth",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "having a certain value" }
+    ]
+  }
+]
