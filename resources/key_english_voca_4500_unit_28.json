@@ -1,0 +1,122 @@
+[
+  {
+    "word": "advanced",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "at a higher level" }
+    ]
+  },
+  {
+    "word": "chess",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a board game for two players" }
+    ]
+  },
+  {
+    "word": "disaster",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "any happening that causes great harm or damage" }
+    ]
+  },
+  {
+    "word": "elderly",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "in old age" }
+    ]
+  },
+  {
+    "word": "friendship",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the state of being friends" }
+    ]
+  },
+  {
+    "word": "humor",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the ability to know and understand that something is funny" }
+    ]
+  },
+  {
+    "word": "pilot",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who flies an airplane" }
+    ]
+  },
+  {
+    "word": "react",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to do or say something in response to something else" }
+    ]
+  },
+  {
+    "word": "servant",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who works in someone else’s house" }
+    ]
+  },
+  {
+    "word": "teenager",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person aged between 13 and 19" }
+    ]
+  },
+  {
+    "word": "aid",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "help" }
+    ]
+  },
+  {
+    "word": "cartoon",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a movie made using characters that are drawn and not real" }
+    ]
+  },
+  {
+    "word": "category",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a group of things of a similar type" }
+    ]
+  },
+  {
+    "word": "essential",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "necessary" }
+    ]
+  },
+  {
+    "word": "gentleman",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a polite, kind man" }
+    ]
+  },
+  {
+    "word": "gain",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to get more" }
+    ]
+  },
+  {
+    "word": "kindly",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "in a kind way" }
+    ]
+  },
+  {
+    "word": "pleasure",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "enjoyment; a pleased feeling" }
+    ]
+  },
+  {
+    "word": "reflect",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to think seriously" }
+    ]
+  },
+  {
+    "word": "silent",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "making no sound" }
+    ]
+  }
+]
