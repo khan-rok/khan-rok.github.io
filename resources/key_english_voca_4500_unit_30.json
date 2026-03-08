@@ -1,0 +1,122 @@
+[
+  {
+    "word": "argument",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an angry discussion" }
+    ]
+  },
+  {
+    "word": "alien",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a creature from another planet" }
+    ]
+  },
+  {
+    "word": "bother",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to annoy" }
+    ]
+  },
+  {
+    "word": "carbon",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a chemical element that exists in all animals and plants" }
+    ]
+  },
+  {
+    "word": "comic",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a magazine with stories told through pictures" }
+    ]
+  },
+  {
+    "word": "debate",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a talk or argument about a subject" }
+    ]
+  },
+  {
+    "word": "examine",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to look at very carefully" }
+    ]
+  },
+  {
+    "word": "heaven",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the place where some people think good people go when they die" }
+    ]
+  },
+  {
+    "word": "laboratory",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a room where experiments are done" }
+    ]
+  },
+  {
+    "word": "progress",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "development and improvement of skills, knowledge, etc." }
+    ]
+  },
+  {
+    "word": "achieve",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to succeed in doing" }
+    ]
+  },
+  {
+    "word": "angel",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a winged being in some religions" }
+    ]
+  },
+  {
+    "word": "breath",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "air taken in and blown out of the body" }
+    ]
+  },
+  {
+    "word": "doubt",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to be uncertain" }
+    ]
+  },
+  {
+    "word": "forgive",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to decide not to be angry when someone does something wrong" }
+    ]
+  },
+  {
+    "word": "reality",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the way things really are" }
+    ]
+  },
+  {
+    "word": "rocket",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a tube-shaped vehicle for space travel" }
+    ]
+  },
+  {
+    "word": "signal",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a movement, light, or sound that tells people what to do" }
+    ]
+  },
+  {
+    "word": "tale",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a story" }
+    ]
+  },
+  {
+    "word": "wizard",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a man in stories who can do magic" }
+    ]
+  }
+]
