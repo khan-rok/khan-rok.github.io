@@ -1,0 +1,122 @@
+[
+  {
+    "word": "among",
+    "definition": [
+      { "part_of_speech": "prep.", "meaning": "in the middle of" }
+    ]
+  },
+  {
+    "word": "feature",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an important part of something" }
+    ]
+  },
+  {
+    "word": "mention",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to say a little about" }
+    ]
+  },
+  {
+    "word": "online",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "relating to the internet" }
+    ]
+  },
+  {
+    "word": "supply",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to provide" }
+    ]
+  },
+  {
+    "word": "stress",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "great worry and strain" }
+    ]
+  },
+  {
+    "word": "total",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the whole amount or number" }
+    ]
+  },
+  {
+    "word": "trade",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to buy and sell goods or services" }
+    ]
+  },
+  {
+    "word": "value",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the amount that something is worth" }
+    ]
+  },
+  {
+    "word": "web",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a thin net made by a spider" }
+    ]
+  },
+  {
+    "word": "attend",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to be present at" }
+    ]
+  },
+  {
+    "word": "except",
+    "definition": [
+      { "part_of_speech": "prep.", "meaning": "but not" }
+    ]
+  },
+  {
+    "word": "general",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "not detailed; including a lot of things" }
+    ]
+  },
+  {
+    "word": "moment",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a short period of time" }
+    ]
+  },
+  {
+    "word": "offer",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to ask someone if they would like something" }
+    ]
+  },
+  {
+    "word": "rather",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "in preference to" }
+    ]
+  },
+  {
+    "word": "relative",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a member of your family" }
+    ]
+  },
+  {
+    "word": "suit",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a jacket and pants made of the same material" }
+    ]
+  },
+  {
+    "word": "task",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a piece of work" }
+    ]
+  },
+  {
+    "word": "unique",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "unlike others" }
+    ]
+  }
+]
