@@ -1,0 +1,122 @@
+[
+  {
+    "word": "ahead",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "in or toward the front" }
+    ]
+  },
+  {
+    "word": "fisherman",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who catches fish" }
+    ]
+  },
+  {
+    "word": "generation",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a group of people of the same age" }
+    ]
+  },
+  {
+    "word": "historical",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "connected with history or with the past" }
+    ]
+  },
+  {
+    "word": "increase",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to become larger in amount or number" }
+    ]
+  },
+  {
+    "word": "involve",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to include someone or something in an activity" }
+    ]
+  },
+  {
+    "word": "murder",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the act of killing a person on purpose" }
+    ]
+  },
+  {
+    "word": "rate",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the speed at which something happens" }
+    ]
+  },
+  {
+    "word": "scene",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the place where something happens" }
+    ]
+  },
+  {
+    "word": "site",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a place where something is, was, or will be located" }
+    ]
+  },
+  {
+    "word": "kingdom",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a region ruled by a king or queen" }
+    ]
+  },
+  {
+    "word": "knight",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a soldier in the past who fought for his king" }
+    ]
+  },
+  {
+    "word": "legend",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an old story about famous people and events in the past" }
+    ]
+  },
+  {
+    "word": "process",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a series of actions that give a result" }
+    ]
+  },
+  {
+    "word": "prove",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to use facts and evidence to show that something is true" }
+    ]
+  },
+  {
+    "word": "selfish",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "thinking only about yourself and not about other people" }
+    ]
+  },
+  {
+    "word": "sense",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a feeling about something important" }
+    ]
+  },
+  {
+    "word": "sight",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the ability to see using your eyes" }
+    ]
+  },
+  {
+    "word": "sword",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a weapon with a long metal blade" }
+    ]
+  },
+  {
+    "word": "whether",
+    "definition": [
+      { "part_of_speech": "conj.", "meaning": "used to express a doubt or choice between two possibilities" }
+    ]
+  }
+]
