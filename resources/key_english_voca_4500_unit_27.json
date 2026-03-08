@@ -1,0 +1,122 @@
+[
+  {
+    "word": "chew",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to use your teeth to break or cut food into small pieces" }
+    ]
+  },
+  {
+    "word": "consume",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to eat or drink something" }
+    ]
+  },
+  {
+    "word": "furniture",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "equipment for a room such as tables, chairs, sofas, etc." }
+    ]
+  },
+  {
+    "word": "handle",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a small round object or a lever that is used to open a door" }
+    ]
+  },
+  {
+    "word": "indeed",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "certainly; truly" }
+    ]
+  },
+  {
+    "word": "junk",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "old, unwanted goods" }
+    ]
+  },
+  {
+    "word": "mask",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a covering for the face" }
+    ]
+  },
+  {
+    "word": "observe",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to watch carefully" }
+    ]
+  },
+  {
+    "word": "sore",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "causing pain" }
+    ]
+  },
+  {
+    "word": "treatment",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the way of dealing with someone or something" }
+    ]
+  },
+  {
+    "word": "additionally",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "as well; also" }
+    ]
+  },
+  {
+    "word": "dentist",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who is trained to treat teeth" }
+    ]
+  },
+  {
+    "word": "flavor",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the taste something has" }
+    ]
+  },
+  {
+    "word": "glue",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a sticky liquid used to join things together" }
+    ]
+  },
+  {
+    "word": "jewel",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a precious stone" }
+    ]
+  },
+  {
+    "word": "neither",
+    "definition": [
+      { "part_of_speech": "conj.", "meaning": "not either" }
+    ]
+  },
+  {
+    "word": "oxygen",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a gas needed by plants and animals to live" }
+    ]
+  },
+  {
+    "word": "previous",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "happening earlier" }
+    ]
+  },
+  {
+    "word": "request",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to ask" }
+    ]
+  },
+  {
+    "word": "surface",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the top or outside part of an object" }
+    ]
+  }
+]
