@@ -1,0 +1,122 @@
+[
+  {
+    "word": "author",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a writer" }
+    ]
+  },
+  {
+    "word": "chapter",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a part of a book" }
+    ]
+  },
+  {
+    "word": "clever",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "smart" }
+    ]
+  },
+  {
+    "word": "communication",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the act of communicating with people" }
+    ]
+  },
+  {
+    "word": "conclusion",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the end" }
+    ]
+  },
+  {
+    "word": "description",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "something that tells you what something or someone is like" }
+    ]
+  },
+  {
+    "word": "dictionary",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a book that gives the meanings of words" }
+    ]
+  },
+  {
+    "word": "express",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make a feeling or idea known to others" }
+    ]
+  },
+  {
+    "word": "fiction",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a type of book or story about things that are not real" }
+    ]
+  },
+  {
+    "word": "mood",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the way a person feels at a particular time" }
+    ]
+  },
+  {
+    "word": "collection",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a group of things that are similar" }
+    ]
+  },
+  {
+    "word": "concentrate",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to focus" }
+    ]
+  },
+  {
+    "word": "definition",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a statement giving the meaning of a word" }
+    ]
+  },
+  {
+    "word": "novel",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a long story that is fiction" }
+    ]
+  },
+  {
+    "word": "original",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "existing before others" }
+    ]
+  },
+  {
+    "word": "outline",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a plan of the main points of something" }
+    ]
+  },
+  {
+    "word": "patient",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "able to wait and not get angry" }
+    ]
+  },
+  {
+    "word": "poem",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a piece of writing, often with rhyming words" }
+    ]
+  },
+  {
+    "word": "publish",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to print a book, magazine, etc." }
+    ]
+  },
+  {
+    "word": "realize",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to understand a situation" }
+    ]
+  }
+]
