@@ -1,0 +1,122 @@
+[
+  {
+    "word": "approach",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to get closer" }
+    ]
+  },
+  {
+    "word": "appropriate",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "right for a situation" }
+    ]
+  },
+  {
+    "word": "award",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a prize" }
+    ]
+  },
+  {
+    "word": "chance",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a possibility that something will happen" }
+    ]
+  },
+  {
+    "word": "competition",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a contest" }
+    ]
+  },
+  {
+    "word": "equal",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "the same in amount, skill, etc." }
+    ]
+  },
+  {
+    "word": "hall",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a long space between many rooms" }
+    ]
+  },
+  {
+    "word": "mispronounce",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to say a word or sound incorrectly" }
+    ]
+  },
+  {
+    "word": "pronounce",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make the sound of a word or letter" }
+    ]
+  },
+  {
+    "word": "social",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "involving meeting other people" }
+    ]
+  },
+  {
+    "word": "communicate",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to speak, write, etc. in order to share information" }
+    ]
+  },
+  {
+    "word": "contact",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to communicate with" }
+    ]
+  },
+  {
+    "word": "current",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "of the present time" }
+    ]
+  },
+  {
+    "word": "degree",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a course of study at a college or university" }
+    ]
+  },
+  {
+    "word": "depend",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to be decided by something or someone else" }
+    ]
+  },
+  {
+    "word": "properly",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "correctly" }
+    ]
+  },
+  {
+    "word": "relationship",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the way two things or people are connected" }
+    ]
+  },
+  {
+    "word": "remove",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to take away; to take off" }
+    ]
+  },
+  {
+    "word": "service",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the act of dealing with customers" }
+    ]
+  },
+  {
+    "word": "single",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "only one; not married" }
+    ]
+  }
+]
