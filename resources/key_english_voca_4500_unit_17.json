@@ -1,0 +1,122 @@
+[
+  {
+    "word": "cancer",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an illness where too many cells grow" }
+    ]
+  },
+  {
+    "word": "chart",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a diagram or graph with information" }
+    ]
+  },
+  {
+    "word": "cure",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make an illness go away" }
+    ]
+  },
+  {
+    "word": "detect",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to find" }
+    ]
+  },
+  {
+    "word": "disease",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "something that makes people or animals sick" }
+    ]
+  },
+  {
+    "word": "experiment",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a scientific test" }
+    ]
+  },
+  {
+    "word": "fever",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a body temperature that is higher than normal" }
+    ]
+  },
+  {
+    "word": "medical",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "of medicine and hospitals" }
+    ]
+  },
+  {
+    "word": "pain",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a feeling of hurt" }
+    ]
+  },
+  {
+    "word": "recommend",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to suggest" }
+    ]
+  },
+  {
+    "word": "dietitian",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "someone who gives advice about what to eat" }
+    ]
+  },
+  {
+    "word": "expert",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "someone with a lot of knowledge about something" }
+    ]
+  },
+  {
+    "word": "headache",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a pain in your head" }
+    ]
+  },
+  {
+    "word": "injury",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "damage to a body part" }
+    ]
+  },
+  {
+    "word": "muscle",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a body part used for movement" }
+    ]
+  },
+  {
+    "word": "physical",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "related to the body" }
+    ]
+  },
+  {
+    "word": "prevent",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to stop" }
+    ]
+  },
+  {
+    "word": "serious",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "very bad" }
+    ]
+  },
+  {
+    "word": "suffer",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to feel physical or mental pain" }
+    ]
+  },
+  {
+    "word": "tongue",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the soft movable part in your mouth" }
+    ]
+  }
+]
