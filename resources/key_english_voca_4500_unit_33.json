@@ -1,0 +1,122 @@
+[
+  {
+    "word": "crew",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a group of people who work together" }
+    ]
+  },
+  {
+    "word": "definite",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "certain; clear" }
+    ]
+  },
+  {
+    "word": "entire",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "whole" }
+    ]
+  },
+  {
+    "word": "exhibition",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a public show or display" }
+    ]
+  },
+  {
+    "word": "fairy",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an imaginary creature" }
+    ]
+  },
+  {
+    "word": "fantastic",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "unreal; imaginary" }
+    ]
+  },
+  {
+    "word": "grand",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "great; important" }
+    ]
+  },
+  {
+    "word": "host",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "someone who has guests" }
+    ]
+  },
+  {
+    "word": "last",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to continue; to go on" }
+    ]
+  },
+  {
+    "word": "reserve",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to arrange for something to be kept for your use" }
+    ]
+  },
+  {
+    "word": "boil",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to heat a liquid until it starts to turn into gas" }
+    ]
+  },
+  {
+    "word": "crash",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to hit something, usually causing damage" }
+    ]
+  },
+  {
+    "word": "depress",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to cause to feel sad" }
+    ]
+  },
+  {
+    "word": "fence",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a structure that divides land" }
+    ]
+  },
+  {
+    "word": "horn",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a hard, pointed growth on an animal’s head" }
+    ]
+  },
+  {
+    "word": "jail",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a place where people are kept for doing something bad" }
+    ]
+  },
+  {
+    "word": "nail",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a thin piece of metal used to hold things together" }
+    ]
+  },
+  {
+    "word": "pond",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a small body of water" }
+    ]
+  },
+  {
+    "word": "slide",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to move easily across a surface" }
+    ]
+  },
+  {
+    "word": "surround",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to be all around" }
+    ]
+  }
+]
