@@ -1,0 +1,122 @@
+[
+  {
+    "word": "comedy",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a funny movie or play" }
+    ]
+  },
+  {
+    "word": "effective",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "having the effect you want" }
+    ]
+  },
+  {
+    "word": "iron",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a metal often used to make tools" }
+    ]
+  },
+  {
+    "word": "mining",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an industry that gets metals and coal from the ground" }
+    ]
+  },
+  {
+    "word": "resource",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "things such as coal, trees, and oil that exist in nature and can be used by people" }
+    ]
+  },
+  {
+    "word": "society",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "people living in a group with rules and expectations" }
+    ]
+  },
+  {
+    "word": "translate",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to change words from one language to another" }
+    ]
+  },
+  {
+    "word": "tribe",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a group of people, often of related families, who live together" }
+    ]
+  },
+  {
+    "word": "unfamiliar",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "not known or recognized" }
+    ]
+  },
+  {
+    "word": "western",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "in or from the west of a region, state, or country" }
+    ]
+  },
+  {
+    "word": "cancel",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to stop a planned event from happening" }
+    ]
+  },
+  {
+    "word": "incredible",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "amazing; hard to believe" }
+    ]
+  },
+  {
+    "word": "net",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an object made of thread that has many holes in it" }
+    ]
+  },
+  {
+    "word": "ruin",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to destroy" }
+    ]
+  },
+  {
+    "word": "silk",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a fine thread made into a shiny material" }
+    ]
+  },
+  {
+    "word": "sheet",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a large, rectangular piece of material, used on a bed" }
+    ]
+  },
+  {
+    "word": "target",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a goal" }
+    ]
+  },
+  {
+    "word": "tropical",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "of a warm, wet part of the earth" }
+    ]
+  },
+  {
+    "word": "valley",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "low land between hills or mountains" }
+    ]
+  },
+  {
+    "word": "weapon",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a kind of tool that can be used to kill or injure" }
+    ]
+  }
+]
