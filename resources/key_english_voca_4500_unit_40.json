@@ -1,0 +1,122 @@
+[
+  {
+    "word": "consider",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to think about something carefully" }
+    ]
+  },
+  {
+    "word": "convince",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make someone believe you" }
+    ]
+  },
+  {
+    "word": "guard",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person whose job is to protect someone or something" }
+    ]
+  },
+  {
+    "word": "judge",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who makes decisions (in court)" }
+    ]
+  },
+  {
+    "word": "law",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "rule for a society" }
+    ]
+  },
+  {
+    "word": "lawyer",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who can advise people about the law" }
+    ]
+  },
+  {
+    "word": "poster",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a large notice or picture stuck on a wall" }
+    ]
+  },
+  {
+    "word": "solve",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to find an answer to a problem" }
+    ]
+  },
+  {
+    "word": "thief",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who steals" }
+    ]
+  },
+  {
+    "word": "truth",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the actual facts or information about something" }
+    ]
+  },
+  {
+    "word": "arrest",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to take someone to a police station because of something they may have done" }
+    ]
+  },
+  {
+    "word": "claim",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to say something is true" }
+    ]
+  },
+  {
+    "word": "crime",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an illegal activity or action" }
+    ]
+  },
+  {
+    "word": "criminal",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a person who commits a crime" }
+    ]
+  },
+  {
+    "word": "evidence",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a reason for believing that something is true" }
+    ]
+  },
+  {
+    "word": "impact",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to have a strong effect" }
+    ]
+  },
+  {
+    "word": "legal",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "relating to the law" }
+    ]
+  },
+  {
+    "word": "prison",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a place where criminals are sent" }
+    ]
+  },
+  {
+    "word": "punish",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to make someone suffer for a crime or for bad behavior" }
+    ]
+  },
+  {
+    "word": "violent",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "using force to hurt or attack" }
+    ]
+  }
+]
