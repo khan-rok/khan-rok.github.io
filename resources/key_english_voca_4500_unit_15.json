@@ -1,0 +1,122 @@
+[
+  {
+    "word": "astronaut",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "someone who works and travels in space" }
+    ]
+  },
+  {
+    "word": "benefit",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an advantage" }
+    ]
+  },
+  {
+    "word": "calculate",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to add, take away, divide, or multiply numbers" }
+    ]
+  },
+  {
+    "word": "device",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a machine for a special purpose" }
+    ]
+  },
+  {
+    "word": "electricity",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "energy used for heating, light, and powering machines" }
+    ]
+  },
+  {
+    "word": "immediately",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "without waiting" }
+    ]
+  },
+  {
+    "word": "industry",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the work and process of making things for sale" }
+    ]
+  },
+  {
+    "word": "internet",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a network of computers connected all over the world" }
+    ]
+  },
+  {
+    "word": "technology",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the study and use of scientific knowledge" }
+    ]
+  },
+  {
+    "word": "website",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a set of pages on the internet" }
+    ]
+  },
+  {
+    "word": "demand",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to ask strongly" }
+    ]
+  },
+  {
+    "word": "electronic",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "needing electricity or an electric current" }
+    ]
+  },
+  {
+    "word": "instant",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "happening immediately" }
+    ]
+  },
+  {
+    "word": "message",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a short piece of information for someone" }
+    ]
+  },
+  {
+    "word": "perhaps",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "maybe" }
+    ]
+  },
+  {
+    "word": "press",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to push firmly" }
+    ]
+  },
+  {
+    "word": "source",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the place that something comes from" }
+    ]
+  },
+  {
+    "word": "spaceship",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a flying vehicle that takes people into space" }
+    ]
+  },
+  {
+    "word": "surf",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to spend time looking at different websites" }
+    ]
+  },
+  {
+    "word": "system",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an organized way of working or planning something" }
+    ]
+  }
+]
