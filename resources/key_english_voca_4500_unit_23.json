@@ -1,0 +1,122 @@
+[
+  {
+    "word": "attention",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "notice or interest" }
+    ]
+  },
+  {
+    "word": "bend",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to cause to curve" }
+    ]
+  },
+  {
+    "word": "conclude",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to end or finish" }
+    ]
+  },
+  {
+    "word": "employee",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "someone who works for another person" }
+    ]
+  },
+  {
+    "word": "employer",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "someone who gives jobs to others" }
+    ]
+  },
+  {
+    "word": "frankly",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "in an honest and direct way" }
+    ]
+  },
+  {
+    "word": "particular",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "special; this and no other" }
+    ]
+  },
+  {
+    "word": "responsible",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "in control of or having the duty to care for" }
+    ]
+  },
+  {
+    "word": "survey",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a set of questions to find out opinions" }
+    ]
+  },
+  {
+    "word": "tax",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "money you must pay to the government" }
+    ]
+  },
+  {
+    "word": "attractive",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "nice to look at or be around" }
+    ]
+  },
+  {
+    "word": "career",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a job that someone does for a long time" }
+    ]
+  },
+  {
+    "word": "construct",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to build" }
+    ]
+  },
+  {
+    "word": "economy",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the system of trade and industry by which money is made" }
+    ]
+  },
+  {
+    "word": "personal",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "relating to a single person" }
+    ]
+  },
+  {
+    "word": "repair",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to fix" }
+    ]
+  },
+  {
+    "word": "safety",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a state where there is no danger or risk" }
+    ]
+  },
+  {
+    "word": "swallow",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to pass food from the mouth to the stomach" }
+    ]
+  },
+  {
+    "word": "typical",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "average" }
+    ]
+  },
+  {
+    "word": "veterinarian",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a doctor who treats animals" }
+    ]
+  }
+]
