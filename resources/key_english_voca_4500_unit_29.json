@@ -1,0 +1,122 @@
+[
+  {
+    "word": "dessert",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a sweet food eaten at the end of a meal" }
+    ]
+  },
+  {
+    "word": "dine",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to eat a meal, usually dinner" }
+    ]
+  },
+  {
+    "word": "ingredient",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "one of the parts needed to make a dish" }
+    ]
+  },
+  {
+    "word": "lack",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to not have" }
+    ]
+  },
+  {
+    "word": "plenty",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "enough" }
+    ]
+  },
+  {
+    "word": "recipe",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a list of ingredients and instructions for making a dish" }
+    ]
+  },
+  {
+    "word": "rough",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "not flat or completely finished" }
+    ]
+  },
+  {
+    "word": "tight",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "fitting the body closely" }
+    ]
+  },
+  {
+    "word": "unforgiving",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "not willing to forgive people" }
+    ]
+  },
+  {
+    "word": "vote",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to choose someone or something using a special process" }
+    ]
+  },
+  {
+    "word": "divide",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to separate into parts" }
+    ]
+  },
+  {
+    "word": "grain",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a seed that is eaten as food" }
+    ]
+  },
+  {
+    "word": "layer",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a sheet of a substance; a level of a material" }
+    ]
+  },
+  {
+    "word": "menu",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a list of foods at a restaurant" }
+    ]
+  },
+  {
+    "word": "shower",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a device for washing that sprays water" }
+    ]
+  },
+  {
+    "word": "stare",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to look at something for a long time without moving your eyes" }
+    ]
+  },
+  {
+    "word": "temple",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a building for religious worship" }
+    ]
+  },
+  {
+    "word": "towel",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a cloth used for drying" }
+    ]
+  },
+  {
+    "word": "whisper",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to speak very quietly" }
+    ]
+  },
+  {
+    "word": "yell",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to shout" }
+    ]
+  }
+]
