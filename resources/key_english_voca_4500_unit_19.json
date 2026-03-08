@@ -1,0 +1,122 @@
+[
+  {
+    "word": "bacteria",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "very small living things that can make you sick" }
+    ]
+  },
+  {
+    "word": "custom",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a tradition" }
+    ]
+  },
+  {
+    "word": "direct",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "going in a straight line" }
+    ]
+  },
+  {
+    "word": "exchange",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to give one thing and get another in its place" }
+    ]
+  },
+  {
+    "word": "recognize",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to know and remember someone or something" }
+    ]
+  },
+  {
+    "word": "spot",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a small, round colored mark" }
+    ]
+  },
+  {
+    "word": "strike",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to hit" }
+    ]
+  },
+  {
+    "word": "trap",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a device for catching animals" }
+    ]
+  },
+  {
+    "word": "wonder",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to think about something" }
+    ]
+  },
+  {
+    "word": "view",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "what can be seen from a place" }
+    ]
+  },
+  {
+    "word": "average",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "usual; regular" }
+    ]
+  },
+  {
+    "word": "percent",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a hundredth part" }
+    ]
+  },
+  {
+    "word": "replace",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to put back; to put in the place of something else" }
+    ]
+  },
+  {
+    "word": "remain",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to stay; to be left" }
+    ]
+  },
+  {
+    "word": "rush",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to hurry" }
+    ]
+  },
+  {
+    "word": "specific",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "exact; certain" }
+    ]
+  },
+  {
+    "word": "spirit",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the part of you made of character and feelings" }
+    ]
+  },
+  {
+    "word": "spread",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to (cause to) cover, reach, or have an effect on" }
+    ]
+  },
+  {
+    "word": "statement",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "something that someone says or writes formally" }
+    ]
+  },
+  {
+    "word": "text",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "written words" }
+    ]
+  }
+]
