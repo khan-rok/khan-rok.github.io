@@ -1,0 +1,122 @@
+[
+  {
+    "word": "advise",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to give advice" }
+    ]
+  },
+  {
+    "word": "appreciate",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to recognize and be thankful for" }
+    ]
+  },
+  {
+    "word": "chain",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a length of rings joined together" }
+    ]
+  },
+  {
+    "word": "drug",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a medicine used to treat diseases" }
+    ]
+  },
+  {
+    "word": "influenza",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "an illness that causes a fever and headache" }
+    ]
+  },
+  {
+    "word": "nest",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a structure made by a bird" }
+    ]
+  },
+  {
+    "word": "steam",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the gas produced when water boils" }
+    ]
+  },
+  {
+    "word": "struggle",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to have difficulty" }
+    ]
+  },
+  {
+    "word": "tough",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "strong; not easily broken" }
+    ]
+  },
+  {
+    "word": "weigh",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to measure how heavy something is" }
+    ]
+  },
+  {
+    "word": "cloth",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a type of material" }
+    ]
+  },
+  {
+    "word": "costume",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a special set of clothes" }
+    ]
+  },
+  {
+    "word": "cotton",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "cloth made from a plant with white fibers" }
+    ]
+  },
+  {
+    "word": "edge",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the outer point of something" }
+    ]
+  },
+  {
+    "word": "fur",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the hair that covers an animal" }
+    ]
+  },
+  {
+    "word": "link",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to join; to connect" }
+    ]
+  },
+  {
+    "word": "narrow",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "having a small distance from one side to the other" }
+    ]
+  },
+  {
+    "word": "succeed",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to achieve what you wanted to do" }
+    ]
+  },
+  {
+    "word": "suppose",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to think something is likely to be true" }
+    ]
+  },
+  {
+    "word": "technique",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a method of doing something" }
+    ]
+  }
+]
