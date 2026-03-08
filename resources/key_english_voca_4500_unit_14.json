@@ -1,0 +1,122 @@
+[
+  {
+    "word": "affect",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to have an effect on" }
+    ]
+  },
+  {
+    "word": "article",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a piece of writing in a newspaper or magazine" }
+    ]
+  },
+  {
+    "word": "college",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a school where you can study after you finish high school" }
+    ]
+  },
+  {
+    "word": "decision",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a choice" }
+    ]
+  },
+  {
+    "word": "education",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the activity of learning or teaching" }
+    ]
+  },
+  {
+    "word": "graduate",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to complete a course of study" }
+    ]
+  },
+  {
+    "word": "instructor",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a teacher" }
+    ]
+  },
+  {
+    "word": "knowledge",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "information and understanding" }
+    ]
+  },
+  {
+    "word": "since",
+    "definition": [
+      { "part_of_speech": "adv.", "meaning": "from a certain time until now" }
+    ]
+  },
+  {
+    "word": "textbook",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a book used to study a subject" }
+    ]
+  },
+  {
+    "word": "complex",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "detailed and difficult to understand" }
+    ]
+  },
+  {
+    "word": "department",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a section in a business, university, government, etc." }
+    ]
+  },
+  {
+    "word": "essay",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a piece of writing, usually by a student" }
+    ]
+  },
+  {
+    "word": "major",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "the main subject one studies at college" }
+    ]
+  },
+  {
+    "word": "professor",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a teacher at a college or university" }
+    ]
+  },
+  {
+    "word": "project",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a task that takes a lot of time and effort" }
+    ]
+  },
+  {
+    "word": "research",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to try to find out facts about something" }
+    ]
+  },
+  {
+    "word": "respond",
+    "definition": [
+      { "part_of_speech": "v.", "meaning": "to answer" }
+    ]
+  },
+  {
+    "word": "scientific",
+    "definition": [
+      { "part_of_speech": "adj.", "meaning": "related to science" }
+    ]
+  },
+  {
+    "word": "university",
+    "definition": [
+      { "part_of_speech": "n.", "meaning": "a high-level school where students study and do research" }
+    ]
+  }
+]
